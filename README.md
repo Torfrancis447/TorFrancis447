@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tor Franis</h1>
 <h3 align="center">A gamer and Full-Stack Developer from Philadelphia, PA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torfrancis447&label=Profile%20views&color=143142&style=plastic" alt="torfrancis447" /> </p>
-
 - 🔭 I’m currently working on [Chatter](https://github.com/Torfrancis447/chatter)
 
 - 🌱 I’m currently learning **Typescript, python**
